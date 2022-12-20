@@ -1,0 +1,13 @@
+/Users/lucasnaceri/Projects/Final_Project/Final_Project/obj/Debug/netcoreapp3.1/Final_Project.csproj.AssemblyReference.cache
+/Users/lucasnaceri/Projects/Final_Project/Final_Project/obj/Debug/netcoreapp3.1/Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasnaceri/Projects/Final_Project/Final_Project/obj/Debug/netcoreapp3.1/Final_Project.AssemblyInfoInputs.cache
+/Users/lucasnaceri/Projects/Final_Project/Final_Project/obj/Debug/netcoreapp3.1/Final_Project.AssemblyInfo.cs
+/Users/lucasnaceri/Projects/Final_Project/Final_Project/obj/Debug/netcoreapp3.1/Final_Project.csproj.CoreCompileInputs.cache
+/Users/lucasnaceri/Projects/Final_Project/Final_Project/bin/Debug/netcoreapp3.1/Final_Project.deps.json
+/Users/lucasnaceri/Projects/Final_Project/Final_Project/bin/Debug/netcoreapp3.1/Final_Project.runtimeconfig.json
+/Users/lucasnaceri/Projects/Final_Project/Final_Project/bin/Debug/netcoreapp3.1/Final_Project.runtimeconfig.dev.json
+/Users/lucasnaceri/Projects/Final_Project/Final_Project/bin/Debug/netcoreapp3.1/Final_Project.dll
+/Users/lucasnaceri/Projects/Final_Project/Final_Project/bin/Debug/netcoreapp3.1/Final_Project.pdb
+/Users/lucasnaceri/Projects/Final_Project/Final_Project/obj/Debug/netcoreapp3.1/Final_Project.dll
+/Users/lucasnaceri/Projects/Final_Project/Final_Project/obj/Debug/netcoreapp3.1/Final_Project.pdb
+/Users/lucasnaceri/Projects/Final_Project/Final_Project/obj/Debug/netcoreapp3.1/Final_Project.genruntimeconfig.cache
